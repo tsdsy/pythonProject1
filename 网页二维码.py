@@ -72,5 +72,6 @@ else:
 img.save(filename)
 print(f"二维码保存成功！为{filename}")
 
+
 # 关闭tkinter窗口
 root.destroy()
